@@ -15,5 +15,5 @@ To view the live link of the website [Click here](https://natia-purtskhvanidze.g
 - [The resourse on Freecodecamp](https://www.freecodecamp.org/news/how-to-center-anything-with-css-align-a-div-text-and-more/) - hepled me to learn how to align the div in center
 
 ### The challenge
-The lectures and learning materials were provided by lecturers and mentors under [Bitcamp](https://www.bitcamp.ge/) project.
-სწავლა და ბრძოლა!
+- The lectures and learning materials were provided by lecturers and mentors under [Bitcamp](https://www.bitcamp.ge/) project.
+- სწავლა და ბრძოლა!
