@@ -16,4 +16,4 @@ To view the live link of the website [Click here](https://natia-purtskhvanidze.g
 
 ### The challenge
 - The lectures and learning materials were provided by lecturers and mentors under [Bitcamp](https://www.bitcamp.ge/) project.
-- სწავლა და ბრძოლა!
+-   სწავლა და ბრძოლა!
